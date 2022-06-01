@@ -9,7 +9,8 @@ public class PrimeNumber {
 		System.out.println("Enter a number to be cheked if primer");
 		int num = sc.nextInt();
 		
-		//logic 
+		//logic
+		//working branch
 
 	}
 
